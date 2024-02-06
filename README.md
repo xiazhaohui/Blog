@@ -2,7 +2,7 @@
  * @Author: 夏朝辉 lesslessmore@163.com
  * @Date: 2023-05-30 13:58:35
  * @LastEditors: 夏朝辉 lesslessmore@163.com
- * @LastEditTime: 2023-05-30 15:50:06
+ * @LastEditTime: 2024-02-06 11:05:03
 -->
 
 ## Web
@@ -24,5 +24,10 @@
 
 ### 3、工程化
 
+- <a href="./web/工程化/搭建网站.md">搭建网站</a>
 - <a href="./web/工程化/GithubAction流水线.md">GithubAction流水线</a>
 - <a href="./web/工程化/Monorepo.md">Monorepo</a>
+
+### 4、工具方法
+
+- <a href="./web/method/oss.md">OSS上传及格式校验</a>

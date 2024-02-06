@@ -2,7 +2,7 @@
  * @Author: 夏朝辉 lesslessmore@163.com
  * @Date: 2023-05-30 14:38:00
  * @LastEditors: 夏朝辉 lesslessmore@163.com
- * @LastEditTime: 2023-05-30 14:48:27
+ * @LastEditTime: 2024-02-06 11:35:29
 -->
 # CI/CD Github Action流水线
 
@@ -105,7 +105,11 @@ GitHub提供的[常用的虚拟机环境](https://docs.github.com/cn/actions/usi
 
 点击`New respository secret`按钮，输入服务器IP、用户、密码等相关信息创建变量
 
-![Untitled](/assets/web/工程化/actionWorkflow1.png)
+> SERVER_HOST：域名公网IP
+> SERVER_USER：服务器用户名
+> SERVER_PASS：服务器密码
+
+![Untitled](/assets/web/工程化/actionSecret.png)
 
 ## 工作流配置文件
 
